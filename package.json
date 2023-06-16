@@ -1,0 +1,15 @@
+{
+  "name": "404-not-found-master",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss -i src/style.css -o public/style.css --watch"
+  },
+  "keywords": [],
+  "author": "Oderinwale Samson",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
